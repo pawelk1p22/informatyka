@@ -125,4 +125,4 @@ def main():
             print("Nieprawidłowy wybór, spróbuj ponownie.")
 
     
-    main()
+main()
